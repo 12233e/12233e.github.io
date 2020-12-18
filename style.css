@@ -34,7 +34,7 @@ border-radius: 15px;
 }
 .box h2{
 font-size: 20px;
-letter-spacing: ;
+letter-spacing: 3px;
 font-weight: 100;
 margin-bottom: 20px;
 
@@ -47,8 +47,8 @@ margin-bottom: 20px;
 }
 .box ul li {
     color:white;
-    font-size: ;
-    padding: px px;
+    font-size: 10px ;
+    padding: 10px 10px;
     transition: all.5s ease-in-out;
     display: block;
 
