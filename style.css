@@ -9,4 +9,10 @@ body{
 ;
 background-size: cover;
 font-family: 'Courier New', Courier, monospace;
+
+}
+.box{
+    width: 500px;
+    background-color: black;
+    
 }
